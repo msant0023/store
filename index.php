@@ -10,9 +10,7 @@
            header("location:advance_search.php?search=" . $query);  
       }  
  }  
- ?>  
-
-
+ ?>
 
 
 <!DOCTYPE html>
